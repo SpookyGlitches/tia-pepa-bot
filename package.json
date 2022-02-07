@@ -4,6 +4,9 @@
 	"description": "A Discord bot that sends \"Clear skies, clear skies, clear skies\" GIF of Pepa Madrigal from Encanto when it detects a negative message.",
 	"main": "index.js",
 	"author": "SpookyGlitches",
+	"repository": {
+		"url": ""
+	},
 	"license": "MIT",
 	"dependencies": {
 		"@aws-sdk/client-comprehend": "^3.49.0",
