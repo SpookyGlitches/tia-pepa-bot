@@ -1,0 +1,14 @@
+{
+	"name": "tia-pepa-bot",
+	"version": "1.0.0",
+	"description": "A Discord bot that sends \"Clear skies, clear skies, clear skies\" GIF of Pepa Madrigal from Encanto when it detects a negative message.",
+	"main": "index.js",
+	"author": "SpookyGlitches",
+	"license": "MIT",
+	"dependencies": {
+		"@aws-sdk/client-comprehend": "^3.49.0",
+		"discord.js": "^13.6.0",
+		"dotenv": "^16.0.0",
+		"nodemon": "^2.0.15"
+	}
+}
