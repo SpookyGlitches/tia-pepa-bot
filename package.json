@@ -5,7 +5,7 @@
 	"main": "index.js",
 	"author": "SpookyGlitches",
 	"repository": {
-		"url": ""
+		"url": "https://github.com/SpookyGlitches/tia-pepa-bot"
 	},
 	"license": "MIT",
 	"dependencies": {
